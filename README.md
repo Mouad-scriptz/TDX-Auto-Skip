@@ -9,3 +9,4 @@ Blazing fast TDX auto skip! (made this in like 15 minutes lol)
 
 # Credits
 - My Discord: mouad.0
+- Discord Server: https://discord.gg/WGRV9gmRcj
